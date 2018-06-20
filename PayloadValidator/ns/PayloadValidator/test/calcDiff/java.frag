@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">calcDiff</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNCglsb25nCXN0YXJ0VGltZSA9IChsb25nKSBJRGF0YVV0aWwuZ2V0KCBwaXBlbGlu
+ZUN1cnNvciwgInN0YXJ0VGltZSIgKTsNCglsb25nCWVuZFRpbWUgPSAobG9uZykgSURhdGFVdGls
+LmdldCggcGlwZWxpbmVDdXJzb3IsICJlbmRUaW1lIiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJv
+eSgpOw0KDQpkb3VibGUgZGlmZiA9IChlbmRUaW1lIC0gc3RhcnRUaW1lICkgLyAxMDAwMDAwLjA7
+DQoNCi8vIHBpcGVsaW5lDQpJRGF0YUN1cnNvciBwaXBlbGluZUN1cnNvcl8xID0gcGlwZWxpbmUu
+Z2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1cnNvcl8xLCAiZGlmZiIsIERv
+dWJsZS50b1N0cmluZyhkaWZmKSApOw0KcGlwZWxpbmVDdXJzb3JfMS5kZXN0cm95KCk7DQoNCgk=
+</value>
+</Values>
